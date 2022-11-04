@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Thainara Ferreira</h1>
+<h1 align="center">Hi 👋🏽![Uploading image.png…]()
+, I'm Thainara Ferreira</h1>
 <h2 align="center">Front-end web development</h2>
 
 - 👩‍💻  **Undergraduate student Eng. Software**
