@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thainara Ferreira</h1>
 <h2 align="center">Front-end web development</h2>
 
-- 💬 Ask me about **Undergraduate student Eng. Software**
+- 👩‍💻  **Undergraduate student Eng. Software**
 
 - 📫 How to reach me **thainara.f@icloud.com**
 
