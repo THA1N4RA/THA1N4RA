@@ -30,4 +30,4 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/@thainaraferreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@thainaraferreira" height="30" width="40" /></a>
 </p>
 
-  ![Snake animation](https://github.com/tha1n4ra/tha1n4ra/blob/output/github-contribution-grid-snake.svg)
+
